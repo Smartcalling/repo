@@ -3,8 +3,8 @@
   <groupId>uk.co.smartcalling.sdk</groupId>
   <artifactId>smartcalling</artifactId>
   <versioning>
-    <latest>4.0.2</latest>
-    <release>4.0.2</release>
+    <latest>4.0.3</latest>
+    <release>4.0.3</release>
     <versions>
       <version>0.15.7</version>
       <version>0.15.8</version>
@@ -62,7 +62,8 @@
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
+      <version>4.0.3</version>
     </versions>
-    <lastUpdated>20210817073925</lastUpdated>
+    <lastUpdated>20210817074939</lastUpdated>
   </versioning>
 </metadata>
